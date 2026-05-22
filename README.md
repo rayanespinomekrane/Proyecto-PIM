@@ -8,6 +8,8 @@ This is an educational web project that I called Western Informatics, inspired b
 
 The website was made in visual studio using html, javascript and css.
 
+Discover the website at: https://rayanespinomekrane.github.io/Proyecto-PIM/
+
 ## Author
 
 **Rayan Espino Mekrane**
